@@ -39,6 +39,6 @@ If you have opportunities, projects, or ideas—reach out! I love collaborating 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaaa-13&show_icons=true&theme=radical" />
+[  <img src="https://github-readme-stats.vercel.app/api?username=shreyaaa-13&show_icons=true&theme=radical" />](https://i.postimg.cc/pTKbQ65y/Screenshot-2025-07-09-220750.png)
 </p>
 
