@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/qMKVF8CC/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Shreya Jadhav Banner" width="100%">
+[<img src="https://i.postimg.cc/qMKVF8CC/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Shreya Jadhav Banner" width="100%">](https://i.postimg.cc/pTKbQ65y/Screenshot-2025-07-09-220750.png)
 
 <h1 align="center">Hi, I'm Atharv Badhe 👋</h1>
 <p align="center">
