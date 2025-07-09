@@ -1,4 +1,5 @@
-[<img src="https://i.postimg.cc/qMKVF8CC/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Shreya Jadhav Banner" width="100%">](https://i.postimg.cc/pTKbQ65y/Screenshot-2025-07-09-220750.png)
+<img src="https://i.postimg.cc/pTKbQ65y/Screenshot-2025-07-09-220750.png" alt="Atharv Badhe Banner" width="100%">
+
 
 <h1 align="center">Hi, I'm Atharv Badhe 👋</h1>
 <p align="center">
@@ -38,7 +39,9 @@ If you have opportunities, projects, or ideas—reach out! I love collaborating 
 
 ---
 
+
 <p align="center">
-[  <img src="https://github-readme-stats.vercel.app/api?username=shreyaaa-13&show_icons=true&theme=radical" />](https://i.postimg.cc/pTKbQ65y/Screenshot-2025-07-09-220750.png)
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvvv-01&show_icons=true&theme=radical" />
 </p>
+
 
