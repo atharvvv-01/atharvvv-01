@@ -40,8 +40,5 @@ If you have opportunities, projects, or ideas—reach out! I love collaborating 
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvvv-01&show_icons=true&theme=radical" />
-</p>
 
 
